@@ -1,0 +1,9 @@
+.page__container {
+  max-width: 1600px;
+  min-width: 320px;
+  /*Отцентровал контент*/
+  margin: 0 auto;
+  font-family: "Mulish", "Arial", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

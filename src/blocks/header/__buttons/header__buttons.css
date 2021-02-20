@@ -1,0 +1,9 @@
+.header__buttons {
+  width: 210px;
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0;
+  padding: 0;
+}
