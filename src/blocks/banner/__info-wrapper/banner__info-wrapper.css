@@ -1,0 +1,7 @@
+.banner__info-wrapper {
+  display: flex;
+  margin-top: 26px;
+  max-width: 260px;
+  justify-content: space-between;
+  align-items: center;
+}

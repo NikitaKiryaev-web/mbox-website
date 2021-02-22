@@ -1,0 +1,7 @@
+.banner {
+  background-image: url(../../images/PremiereFilm.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: top;
+  min-height: 900px;
+}

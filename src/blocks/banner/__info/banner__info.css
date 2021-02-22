@@ -1,0 +1,6 @@
+.banner__info {
+  max-width: 580px;
+  display: flex;
+  flex-direction: column;
+  padding: 213px 0 0 245px;
+}

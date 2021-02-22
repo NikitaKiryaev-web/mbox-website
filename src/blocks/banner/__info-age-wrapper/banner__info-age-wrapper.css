@@ -1,0 +1,5 @@
+.banner__info-age-wrapper {
+  border: 1.5px solid;
+  border-image: linear-gradient(316.53deg, #26fff2 13.2%, #326cff 71.54%);
+  border-image-slice: 1;
+}
