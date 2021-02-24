@@ -24,3 +24,7 @@
 @import url(./blocks/banner/__info-rating-number/banner__info-rating-number.css);
 @import url(./blocks/banner/__info-age/banner__info-age.css);
 @import url(./blocks/banner/__about/banner__about.css);
+@import url(./blocks/banner/__watch-button/banner__watch-button.css);
+@import url(./blocks/banner/__watch-button-play-arrow/banner__watch-button-play-arrow.css);
+@import url(./blocks/banner/__info-button/banner__info-button.css);
+@import url(./blocks/banner/__buttons-wrapper/banner__buttons-wrapper.css);
