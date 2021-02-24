@@ -1,0 +1,6 @@
+.banner__buttons-wrapper {
+  max-width: 366px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 25px;
+}

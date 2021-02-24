@@ -1,0 +1,7 @@
+.banner__watch-button-play-arrow {
+  width: 14px;
+  height: 18px;
+  object-fit: cover;
+  object-position: center;
+  margin-right: 15px;
+}

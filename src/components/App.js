@@ -16,7 +16,9 @@ function App() {
         age='18'
         seasons='9'
         rating='8.8'
-        about='Сериал про кулхацкеров'
+        about='Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Nunc quis et elit lacinia urna.Lorem ipsum dolor sit amet,
+        consectetur adipiscing elit.'
         />
       </div>
     </div>

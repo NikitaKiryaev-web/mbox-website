@@ -1,5 +1,6 @@
 import star from "../images/RatingStar.svg";
-import image from "../images/PremiereFilm.png"
+import arrow from '../images/play-arrow.svg';
+
 
 function Main(props) {
   return(
@@ -19,6 +20,10 @@ function Main(props) {
             </div>
           </div>
           <p className="banner__about">{props.about}</p>
+          <div className="banner__buttons-wrapper">
+          <button className="banner__watch-button"><img className="banner__watch-button-play-arrow" src={arrow}></img>Watch</button>
+          <button className="banner__info-button">More information</button>
+          </div>
         </div>
       </section>
     </main>
