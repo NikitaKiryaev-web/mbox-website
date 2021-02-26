@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5fb3f802.chunk.css",
+    "main.js": "/static/js/main.bd0d6f46.chunk.js",
+    "main.js.map": "/static/js/main.bd0d6f46.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9493ac81.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9493ac81.js.map",
+    "static/js/2.421633e9.chunk.js": "/static/js/2.421633e9.chunk.js",
+    "static/js/2.421633e9.chunk.js.map": "/static/js/2.421633e9.chunk.js.map",
+    "static/js/3.3297be93.chunk.js": "/static/js/3.3297be93.chunk.js",
+    "static/js/3.3297be93.chunk.js.map": "/static/js/3.3297be93.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5fb3f802.chunk.css.map": "/static/css/main.5fb3f802.chunk.css.map",
+    "static/js/2.421633e9.chunk.js.LICENSE.txt": "/static/js/2.421633e9.chunk.js.LICENSE.txt",
+    "static/media/Logo-header.51280369.svg": "/static/media/Logo-header.51280369.svg",
+    "static/media/index.css": "/static/media/Search.55f87a6b.svg",
+    "static/media/RatingStar.8e83c391.svg": "/static/media/RatingStar.8e83c391.svg",
+    "static/media/play-arrow.84b45aa2.svg": "/static/media/play-arrow.84b45aa2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9493ac81.js",
+    "static/js/2.421633e9.chunk.js",
+    "static/css/main.5fb3f802.chunk.css",
+    "static/js/main.bd0d6f46.chunk.js"
+  ]
+}
