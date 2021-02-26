@@ -21,7 +21,7 @@
 - CSS3
 - Webpack
 - JSX
-- React Carousel ([Отдельное спасибо автору данно решения](https://github.com/sag1v/react-elastic-carousel))
+- React Carousel ([Отдельное спасибо автору данного решения](https://github.com/sag1v/react-elastic-carousel))
 
 **Где посмотреть**
 [Ссылка на gh-pages](https://nikitakiryaev-web.github.io/mbox-website/)
