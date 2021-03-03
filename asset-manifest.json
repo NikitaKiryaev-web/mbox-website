@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.5fb3f802.chunk.css",
-    "main.js": "/static/js/main.bd0d6f46.chunk.js",
-    "main.js.map": "/static/js/main.bd0d6f46.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9493ac81.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9493ac81.js.map",
-    "static/js/2.421633e9.chunk.js": "/static/js/2.421633e9.chunk.js",
-    "static/js/2.421633e9.chunk.js.map": "/static/js/2.421633e9.chunk.js.map",
-    "static/js/3.3297be93.chunk.js": "/static/js/3.3297be93.chunk.js",
-    "static/js/3.3297be93.chunk.js.map": "/static/js/3.3297be93.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.5fb3f802.chunk.css.map": "/static/css/main.5fb3f802.chunk.css.map",
-    "static/js/2.421633e9.chunk.js.LICENSE.txt": "/static/js/2.421633e9.chunk.js.LICENSE.txt",
-    "static/media/Logo-header.51280369.svg": "/static/media/Logo-header.51280369.svg",
-    "static/media/index.css": "/static/media/Search.55f87a6b.svg",
-    "static/media/RatingStar.8e83c391.svg": "/static/media/RatingStar.8e83c391.svg",
-    "static/media/play-arrow.84b45aa2.svg": "/static/media/play-arrow.84b45aa2.svg"
+    "main.css": "/mbox-website/static/css/main.8382f074.chunk.css",
+    "main.js": "/mbox-website/static/js/main.42c729e6.chunk.js",
+    "main.js.map": "/mbox-website/static/js/main.42c729e6.chunk.js.map",
+    "runtime-main.js": "/mbox-website/static/js/runtime-main.0d2be1a2.js",
+    "runtime-main.js.map": "/mbox-website/static/js/runtime-main.0d2be1a2.js.map",
+    "static/js/2.7dc1c083.chunk.js": "/mbox-website/static/js/2.7dc1c083.chunk.js",
+    "static/js/2.7dc1c083.chunk.js.map": "/mbox-website/static/js/2.7dc1c083.chunk.js.map",
+    "static/js/3.3297be93.chunk.js": "/mbox-website/static/js/3.3297be93.chunk.js",
+    "static/js/3.3297be93.chunk.js.map": "/mbox-website/static/js/3.3297be93.chunk.js.map",
+    "index.html": "/mbox-website/index.html",
+    "static/css/main.8382f074.chunk.css.map": "/mbox-website/static/css/main.8382f074.chunk.css.map",
+    "static/js/2.7dc1c083.chunk.js.LICENSE.txt": "/mbox-website/static/js/2.7dc1c083.chunk.js.LICENSE.txt",
+    "static/media/Logo-header.51280369.svg": "/mbox-website/static/media/Logo-header.51280369.svg",
+    "static/media/index.css": "/mbox-website/static/media/Search.55f87a6b.svg",
+    "static/media/RatingStar.8e83c391.svg": "/mbox-website/static/media/RatingStar.8e83c391.svg",
+    "static/media/play-arrow.84b45aa2.svg": "/mbox-website/static/media/play-arrow.84b45aa2.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9493ac81.js",
-    "static/js/2.421633e9.chunk.js",
-    "static/css/main.5fb3f802.chunk.css",
-    "static/js/main.bd0d6f46.chunk.js"
+    "static/js/runtime-main.0d2be1a2.js",
+    "static/js/2.7dc1c083.chunk.js",
+    "static/css/main.8382f074.chunk.css",
+    "static/js/main.42c729e6.chunk.js"
   ]
 }
